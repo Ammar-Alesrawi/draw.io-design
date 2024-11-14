@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-11-14T18:14:59.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.6.4" etag="XVK-h-NdjXI5s6dguGIV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-14T19:06:25.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="JdFP-8lKNE9DL1EC1TK-" version="24.6.4" type="github">
   <diagram name="Page-1" id="8rDl9rIpBgZ5QR2DJrtB">
-    <mxGraphModel>
+    <mxGraphModel dx="983" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-1" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;EcoReport Platform&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="500" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-2" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="570" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-6" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-7" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;competent  Authority&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:20},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:20}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size:16.666666666666664px;&quot;&gt;competent  Authority&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-8" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Recycling company&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:17},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:17}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;font-size:16.666666666666664px;&quot;&gt;Recycling company&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="570" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-9" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Other environment partner&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;c&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;3a414aff&amp;quot;,&amp;quot;e&amp;quot;:25},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:25},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:22.22222222222222,&amp;quot;e&amp;quot;:25}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color:#3a414a;font-size:16.666666666666664px;&quot;&gt;Other environment partner&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="570" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-10" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;homepage&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="650" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-11" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20align%3D%26quot%3Bcenter%26quot%3B%20class%3D%26quot%3BMsoNormal%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2014px%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3Bhomepage%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22278%22%20y%3D%22650%22%20width%3D%22136%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Register Reporter&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-13" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Login&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="650" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-14" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Admin Login&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="650" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-16" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Competent Authorities Login&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="710" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-17" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Contact Us&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="710" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-18" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Recycling Report&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="800" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-19" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SY&quot;&gt;Edit Account&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="810" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-21" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Add Users&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="790" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-22" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20align%3D%26quot%3Bcenter%26quot%3B%20class%3D%26quot%3BMsoNormal%26quot%3B%26gt%3B%26lt%3Bfont%20face%3D%26quot%3BTimes%20New%20Roman%2C%20serif%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3BAdd%20Users%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22278%22%20y%3D%22810%22%20width%3D%22136%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 11pt; background-color: initial;&quot;&gt;Initiatives&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="710" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-24" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SY&quot;&gt;Submit Environmental Report&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="880" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-25" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Competent Authority Report Management&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="880" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-26" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Recycling Company Report Management&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="622" y="880" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-27" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;Environmental Partner Report Management&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="880" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-28" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot;&gt;My Submitted Reports&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="880" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc6H8rOFRedo5iXEoYfO-29" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;About US&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="650" width="136" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
